@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AboutMePractical</string>
+    <string name="name">CHAI WEI MIN</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur auctor convallis.
+        \n\nPellentesque placerat massa euismod risus volutpat hendrerit.
+        \n\nMorbi accumsan laoreet dui, convallis rutrum metus placerat non.
+        \n\nInteger iaculis metus vitae elementum auctor. Aenean rhoncus ex sit amet sapien volutpat fringilla.
+        \n\nUt quis malesuada ligula, id egestas turpis. Phasellus at tincidunt enim. Nullam congue quam dolor, ut fermentum arcu congue quis.
+        \n\nSuspendisse mattis lacinia ante in aliquam. Aenean laoreet elit dolor, id volutpat odio auctor quis.
+        \n\nProin tincidunt cursus lacus vel scelerisque. Sed rhoncus nulla a arcu vehicula, id porttitor lacus hendrerit.
+        \n\nNunc at sem sed dui viverra hendrerit. Duis finibus magna dui, sed lacinia risus semper non.
+        \n\nCurabitur id velit non lorem vestibulum posuere eget sed elit. Phasellus consequat vitae metus ut fermentum.</string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+    <string name="done">Done</string>
+</resources>
